@@ -7,6 +7,7 @@ body {
   background-size: cover;
   background-position: center;
   font-family: sans-serif;
+  
 }
 
 .contact-title {
@@ -44,7 +45,7 @@ input {
   height: 45px;
 }
 form .submit {
-  background: #ff5722;
+  background: #ff9722;
   color: #fff;
   font-size: 20px;
   font-weight: bold;
